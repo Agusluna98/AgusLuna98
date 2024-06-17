@@ -2,7 +2,8 @@
   <h1 style="color:black; font-weight:bold;">
     Hello, I'm Agustina <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">
   </h1>
-  <img src="C:\Users\Ordinateur\Downloads\AgustinaLuna.png" alt="Agustina" width="200px">
+  <img src="![Agustina Luna](https://github.com/Agusluna98/AgusLuna98/assets/157303006/b974ecd9-4d22-49c3-b9fe-772c447d1cf1)
+" width="200px">
 </div>
 
 ---
