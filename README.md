@@ -1,7 +1,8 @@
 <div align="center">
   <h1 style="color:black; font-weight:bold;">
     Hello, I'm Agustina <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">
-  </h1> <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="9swYGJO"><a href="https://imgur.com/9swYGJO">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+  </h1>
+  <img src="https://i.imgur.com/9swYGJO.png" alt="AgustinaFoto" width="200px">
 </div>
 
 ---
