@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color:black; font-weight:bold;">
     Hello, I'm Agustina <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">
-  </h1> <img src="https://ibb.co/B6b2QQQ" alt="Agustina" width="200px">
+  </h1> <img src="https://imgur.com/a/p7zfiWh" alt="Agustina" width="200px">
 </div>
 
 ---
