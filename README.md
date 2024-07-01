@@ -25,7 +25,7 @@
 - 🐍 **Python**: Proficient in data analysis using libraries such as Seaborn, Matplotlib, NumPy, and Pandas.
 - 📊 **Power BI**: Capable of creating interactive visualizations and dashboards.
 - 📈 **Statistics**: Strong knowledge in statistical methods and predictive analysis.
-- 🤖 **Machine Learning**: Familiar with basic and advanced techniques.
+
 
 ---
 
@@ -54,13 +54,12 @@
 🤝 I am motivated to work in collaborative teams to achieve common goals and have had the opportunity to participate in challenging projects that have strengthened my ability to provide effective solutions.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="200">
-  <img src="https://media.giphy.com/media/1ykMuPV6l8Smc/giphy.gif" width="200" height="200">
-  <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" width="200" height="200">
+  <img src="https://i.imgur.com/wxBOlJ8.png" width="200" height="200" alt="Professional1">
+  <img src="https://i.imgur.com/2Hs9Yfs.png" width="200" height="200" alt="Professional2">
+  <img src="https://i.imgur.com/Ry5ocRa.png" width="200" height="200" alt="Professional3">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AgusLuna98&style=flat-square&color=blue" alt="Profile Views">
-</p>
+  <img src="https://komarev.com/ghpvc/?username=AgusLuna98&style=flat-square&color=blue" alt="Profile Views
