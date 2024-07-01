@@ -26,13 +26,11 @@
 - 📊 **Power BI**: Capable of creating interactive visualizations and dashboards.
 - 📈 **Statistics**: Strong knowledge in statistical methods and predictive analysis.
 
-
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AgusLuna98&show_icons=true&theme=radical" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgusLuna98&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLuna98&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -54,12 +52,13 @@
 🤝 I am motivated to work in collaborative teams to achieve common goals and have had the opportunity to participate in challenging projects that have strengthened my ability to provide effective solutions.
 
 <p align="center">
-  <img src="https://i.imgur.com/wxBOlJ8.png" width="200" height="200" alt="Professional1">
-  <img src="https://i.imgur.com/2Hs9Yfs.png" width="200" height="200" alt="Professional2">
-  <img src="https://i.imgur.com/Ry5ocRa.png" width="200" height="200" alt="Professional3">
+  <img src="https://i.imgur.com/ZZ2Bsc7.png" width="200" height="200" alt="Professional1">
+  <img src="https://i.imgur.com/Rv3pmB4.png" width="200" height="200" alt="Professional2">
+  <img src="https://i.imgur.com/Q6YxqTv.png" width="200" height="200" alt="Professional3">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AgusLuna98&style=flat-square&color=blue" alt="Profile Views
+  <img src="https://komarev.com/ghpvc/?username=AgusLuna98&style=flat-square&color=blue" alt="Profile Views">
+</p>
