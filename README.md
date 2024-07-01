@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/agustina-luna-45a867312/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:agustinatluna@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
@@ -28,4 +31,36 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AgusLuna98&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgusLuna98&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusLuna98&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+### More About Me:
+
+👩🏻‍💻 I'm Agustina Luna, passionate about data and solving complex problems. With a solid background in data analysis and experience in tools like SQL, Power BI, and Python along with its main libraries such as Pandas, Numpy, Matplotlib, and Seaborn.
+
+🌍 I love exploring new places and learning languages. I speak English, have basic knowledge of German, and I'm learning Italian.
+
+📊 Why am I passionate about data analysis? Because I firmly believe that data is fundamental to understanding and improving the world around us. My focus is on applying these skills to solve real-world problems in various sectors.
+
+➕ What can I bring? I work with:
+
+🔹 Python (Numpy, Pandas, Matplotlib, Seaborn)  
+🔹 Databases: SQL  
+🔹 Data Visualization: Power BI, Tableau  
+
+🤝 I am motivated to work in collaborative teams to achieve common goals and have had the opportunity to participate in challenging projects that have strengthened my ability to provide effective solutions.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="200">
+  <img src="https://media.giphy.com/media/1ykMuPV6l8Smc/giphy.gif" width="200" height="200">
+  <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" width="200" height="200">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AgusLuna98&style=flat-square&color=blue" alt="Profile Views">
 </p>
