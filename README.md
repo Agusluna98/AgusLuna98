@@ -52,9 +52,9 @@
 🤝 I am motivated to work in collaborative teams to achieve common goals and have had the opportunity to participate in challenging projects that have strengthened my ability to provide effective solutions.
 
 <p align="center">
-  <img src="https://imgur.com/f51f2a38-dfeb-4383-ae69-c5b2970d48b5" width="200" height="200" alt="Professional1">
-  <img src="https://imgur.com/c46447ee-1000-413e-bea8-d70dfccc2864" width="200" height="200" alt="Professional2">
-  <img src="https://imgur.com/7d151a4b-8bb8-4a74-b937-8cc2719c9a60" width="200" height="200" alt="Professional3">
+ <img src="https://i.imgur.com/f51f2a38-dfeb-4383-ae69-c5b2970d48b5.png" width="200" height="200" alt="Professional1">
+  <img src="https://i.imgur.com/c46447ee-1000-413e-bea8-d70dfccc2864.png" width="200" height="200" alt="Professional2">
+  <img src="https://i.imgur.com/q9Go2YO.png" width="200" height="200" alt="Professional3">
 </p>
 
 ---
