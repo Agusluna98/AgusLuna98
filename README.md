@@ -39,7 +39,7 @@
 
 ### More About Me:
 
-👩🏻‍💻 I'm Agustina Luna, passionate about data and solving complex problems. With a solid background in data analysis and experience in tools like SQL, Power BI, and Python along with its main libraries such as Pandas, Numpy, Matplotlib, and Seaborn.
+👩🏻‍💻 I'm passionate about data and solving complex problems. With a solid background in data analysis and experience in tools like SQL, Power BI, and Python along with its main libraries such as Pandas, Numpy, Matplotlib, and Seaborn.
 
 🌍 I love exploring new places and learning languages. I speak English, have basic knowledge of German, and I'm learning Italian.
 
