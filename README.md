@@ -29,9 +29,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgusLuna98&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgusLuna98&theme=radical" alt="GitHub Streak">
+  <img src="https://i.imgur.com/BD3c1Cd.png" width="200" height="300" alt="Professional1">
+  <img src="https://i.imgur.com/zbrYonn.png" width="200" height="300" alt="Professional2">
+  <img src="https://i.imgur.com/q9Go2YO.png" width="200" height="300" alt="Professional3">
 </p>
+
 
 ---
 
@@ -51,12 +53,10 @@
 
 🤝 I am motivated to work in collaborative teams to achieve common goals and have had the opportunity to participate in challenging projects that have strengthened my ability to provide effective solutions.
 
-<p align="center">
-  <img src="https://i.imgur.com/BD3c1Cd.png" width="200" height="300" alt="Professional1">
-  <img src="https://i.imgur.com/zbrYonn.png" width="200" height="300" alt="Professional2">
-  <img src="https://i.imgur.com/q9Go2YO.png" width="200" height="300" alt="Professional3">
-</p>
-
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AgusLuna98&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgusLuna98&theme=radical" alt="GitHub Streak">
+</p>
 
 
